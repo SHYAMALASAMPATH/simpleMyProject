@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="97" started-at="2020-08-19T18:45:22 IST" finished-at="2020-08-19T18:45:22 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="97" started-at="2020-08-19T18:45:22 IST" finished-at="2020-08-19T18:45:22 IST">
+      <class name="MyProject.Selenium.Day1">
+        <test-method status="PASS" signature="loans()[pri:0, instance:MyProject.Selenium.Day1@1ed4004b]" name="loans" duration-ms="7" started-at="2020-08-19T18:45:22 IST" finished-at="2020-08-19T18:45:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loans -->
+        <test-method status="PASS" signature="loanssignin()[pri:0, instance:MyProject.Selenium.Day1@1ed4004b]" name="loanssignin" duration-ms="1" started-at="2020-08-19T18:45:22 IST" finished-at="2020-08-19T18:45:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanssignin -->
+        <test-method status="PASS" signature="loanssignup()[pri:0, instance:MyProject.Selenium.Day1@1ed4004b]" name="loanssignup" duration-ms="1" started-at="2020-08-19T18:45:22 IST" finished-at="2020-08-19T18:45:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanssignup -->
+      </class> <!-- MyProject.Selenium.Day1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

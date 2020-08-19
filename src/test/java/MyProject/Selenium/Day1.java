@@ -20,5 +20,10 @@ public class Day1
 	{
 		System.out.println("loans sign ");
 	}
+	@Test
+	public void loan()
+	{
+		System.out.println("loan ");
+	}
 
 }
