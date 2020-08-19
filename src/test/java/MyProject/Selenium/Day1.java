@@ -15,5 +15,10 @@ public class Day1
 	{
 		System.out.println("loans signup bye ");
 	}
+	@Test
+	public void loans()
+	{
+		System.out.println("loans sign ");
+	}
 
 }
